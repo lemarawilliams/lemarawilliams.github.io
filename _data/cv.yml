@@ -2,96 +2,83 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Lemara Williams
+
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Washington University in St. Louis
+      year: 
+    - title: MS
+      institution: Virginia Polytechnic Institute of Technology 
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Computer Science & Applications
+    - title: BA
+      institution: Amherst College
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Computer Science, Music 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Responsible and Inclusive Technologies Research Intern
+      institution: IBM Research
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Co-led a study to analyze the perceptions of IT professionals regarding prompting recommendations
+        - Utilized various qualitative research methods, including interviews, surveys, and thematic analysis, to evaluate and optimize user experiences for a web-based application
+
+    - title: Research Assistant
+      institution: Virginia Polytechnic Institute of Technology
+      year: 2023-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Worked under Dr. Chris North to visualize interesting movements of diachronic word embeddings 
+        - Added semantic meaning to such visualizations through temporal high dimensional clustering, global and local topic modeling of millions of word embeddings from over 2 years
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Software Performance Analyst Intern
+      institution: IBM Research
+      year: 2023
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Software Development Research Intern
+      institution: IBM Research
+      year: 2022
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      # - title: Open Source Projects
+      #   type: time_table
+      #   contents:
+      #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      #       year: 2015-now
+      #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - GEM Fellowship - Employer Select, National GEM Consortium
+        - Clare Boothe Luce Graduate Fellowship, Washington University in St. Louis
+        - AI-ACCESS Fellowship, Washington University in St. Louis
+    - year: 2022
       items:
-        - Max Planck Medal
+        - GEM Fellowship, Employer Select
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

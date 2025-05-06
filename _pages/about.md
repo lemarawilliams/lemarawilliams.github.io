@@ -29,4 +29,4 @@ Hi! I'm Lemara Williams - an engineer and researcher committed to bridging the g
 
 When I'm more than an arm's length from a screen, you'll find me reading about a fantasy world or morally dubious charcters, making some tea, or trying to learn a new language. 
 
-In my research, I aim to make the world a little easier to understand — and a lot easier to change.
+In my research, I aim to make the world a little easier to understand - and empower change.
