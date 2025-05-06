@@ -25,7 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am currently a first-year PhD student at Washington University in St. Louis studying computer science and applications.
+
+I am an engineer and researcher who wants to bridge the gap between technology and daily life. I am interested in human-computer interaction, especially XAI and information retrieval, and am looking for related opportunities.
+
+I originate from South Florida; being immersed in such a broad range of cultures since my youth has given me the tools to have a broader perspective and a unique approach to solving problems. I never shy away from an obstacle and always aim to learn from my experiences. Creativity can make or break any situation, so along with being analytical, I also strive to find the right balance with creativity. I love learning, whether that be a new language, a new skill, or about a new show. I play classical pieces on my violin for fun and hope to do the same on piano. I read, maybe a little too much, fiction and short essay compilations escaping everyday life through both.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
