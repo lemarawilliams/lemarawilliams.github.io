@@ -4,6 +4,22 @@
 \defbibnote{mynote}{$^*$ indicates equal contributions\\ $^\dagger$ indicates corresponding author(s)
    (if not the senior author)\\ \textbf{boldface} indicates a member of my lab \\}
 
+\renewcommand*{\mkbibnamegiven}[1]{
+\ifitemannotation{highlight}
+{\textbf{#1}}
+{#1}}
+\renewcommand*{\mkbibnamefamily}[1]{
+\ifitemannotation{highlight}
+  {\textbf{#1}}
+  {#1}%
+\ifitemannotation{first}
+  {\textsuperscript{*}}
+  {}%
+\ifitemannotation{corresponding}
+  {$^\dagger$}
+  {}%
+}%%
+
 
 @article{masterthesis2024,
    title={Visualizing Temporal Topic Embeddings with a Compass},
@@ -14,10 +30,11 @@
    number={1},
    journal={IEEE Transactions on Visualization and Computer Graphics},
    publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-   author={Palamarchuk^*, Daniel and \textbf{Williams^*, Lemara} and Mayer, Brian and Danielson, Thomas and Faust, Rebecca and Deschaine, Larry and North, Chris},
+   author={Palamarchuk*, Daniel and Williams*, Lemara and Mayer, Brian and Danielson, Thomas and Faust, Rebecca and Deschaine, Larry and North, Chris},
    year={2025},
    selected={true},
-   month=jan, pages={272–282} 
+   month=jan, pages={272–282},
+   note = {* indicates equal contribution.} 
    }
 
 @inproceedings{responsibleprompting2024,
