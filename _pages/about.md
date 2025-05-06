@@ -12,7 +12,7 @@ profile:
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -20,13 +20,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am currently a first-year PhD student at Washington University in St. Louis studying computer science and applications.
+Hi! I'm Lemara Williams - an engineer and researcher committed to bridging the gap between technology and daily life. My current focus lies somewhere between visualization, decision-making and explainability.
 
-I am an engineer and researcher who wants to bridge the gap between technology and daily life. I am interested in human-computer interaction, especially XAI and information retrieval, and am looking for related opportunities.
+When I'm more than an arm's length from a screen, you'll find me reading about a fantasy world or morally dubious charcters, making some tea, or trying to learn a new language. 
 
-I originate from South Florida; being immersed in such a broad range of cultures since my youth has given me the tools to have a broader perspective and a unique approach to solving problems. I never shy away from an obstacle and always aim to learn from my experiences. Creativity can make or break any situation, so along with being analytical, I also strive to find the right balance with creativity. I love learning, whether that be a new language, a new skill, or about a new show. I play classical pieces on my violin for fun and hope to do the same on piano. I read, maybe a little too much, fiction and short essay compilations escaping everyday life through both.
+In my research, I aim to make the world a little easier to understand — and a lot easier to change.
