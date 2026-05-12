@@ -54,3 +54,4 @@ Drop your CV PDF at `public/cv.pdf`. The CV page will embed and offer a download
 - EB Garamond + Crimson Pro (Google Fonts)
 - Zero dependencies beyond Next.js
 - One workflow file, all Node.js 24-compatible actions
+# lemarawilliams.github.io
