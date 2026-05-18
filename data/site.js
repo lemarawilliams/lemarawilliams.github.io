@@ -6,11 +6,11 @@ export const researcher = {
   department: "Department of Computer Science",
   institution: "Washington University in St. Louis",
   email: "lemaraw@wustl.edu",
-  bio: `Hi! I'm Lemara Williams - an engineer and researcher committed to bridging the gap between technology and daily life. My current focus lies somewhere between visualization, decision-making and explainability.
+  bio: `Hi! I'm Lemara Williams - a researcher and engineer committed to bridging the gap between technology and daily life. My current focus includes visualization, guidelines, and explainability.
 
-When I'm more than an arm's length from a screen, you'll find me reading about a fantasy world or morally dubious charcters, making some tea, or trying to learn a new language. 
+When I'm more than an arm's length from a screen, you'll find me reading about a fantasy world or morally dubious characters, making some tea, or trying to learn a new language. 
 
-In my research, I aim to make the world a little easier to understand - and empower change.`,
+In my research, I aim to make the world a little easier to understand - and empower change. Feel free to reach out if you want to chat about research, books, or anything else!`,
   links: {
     googleScholar: "https://scholar.google.com",
     semanticScholar: "https://semanticscholar.org",
@@ -18,7 +18,7 @@ In my research, I aim to make the world a little easier to understand - and empo
     twitter: "https://twitter.com",
     orcid: "https://orcid.org",
   },
-  cv: "/WilliamsLemara_2024Resume.pdf", // place your CV at public/cv.pdf
+  cv: "/WilliamsLemara_2026Resume.pdf", // place your CV at public/cv.pdf
 }
 
 export const news = [
@@ -44,7 +44,7 @@ export const publications = [
   },
   {
     title: "TimeLink: Visualizing Diachronic Word Embeddings and Topics",
-    authors: "+Williams, L.*",
+    authors: "Williams, L.*",
     venue: "Master's Thesis",
     year: 2024,
     tags: ["Topic Modeling", "High Dimensional Visualizations"],
