@@ -44,7 +44,7 @@ export const publications = [
   },
   {
     title: "TimeLink: Visualizing Diachronic Word Embeddings and Topics",
-    authors: "Williams, L.*",
+    authors: "Williams, L.",
     venue: "Master's Thesis",
     year: 2024,
     tags: ["Topic Modeling", "High Dimensional Visualizations"],
