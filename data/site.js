@@ -38,9 +38,17 @@ export const publications = [
     authors: "Palamarchuk, D.*, +Williams, L.*, +Mayer, B., +Danielson, T., +Faust, R., +Deschaine, L. & +North, C.",
     venue: "IEEE Transactions on Visualization and Computer Graphics (VIS)",
     year: 2024,
-    tags: ["Topic Modeling", "Representation Learning"],
+    tags: ["Topic Modeling", "Cluster Analysis"],
     links: { pdf: "http://dx.doi.org/10.1109/TVCG.2024.3456143"},
     note: ["* indicates equal contribution"]
+  },
+  {
+    title: "TimeLink: Visualizing Diachronic Word Embeddings and Topics",
+    authors: "+Williams, L.*",
+    venue: "Master's Thesis",
+    year: 2024,
+    tags: ["Topic Modeling", "High Dimensional Visualizations"],
+    links: { pdf: "https://vtechworks.lib.vt.edu/items/b625d73e-730c-4ff6-8615-d8ad582caa7f"},
   },
   {
     title: "Responsible Prompting Recommendation: Fostering Responsible AI Practices in Prompting-Time",
@@ -57,7 +65,7 @@ export const publications = [
     venue: "International Conference on Intelligent User Interfaces (IUI)",
     year: 2025,
     tags: ["Recommender Systems", "Prompt Engineering"],
-    links: { pdf: "#", arxiv: "#" },
+    links: { pdf: "https://doi.org/10.1145/3708359.3712137"},
   },
   // {
   //   title: "On the Stability of Gradient-Based Explanations",
